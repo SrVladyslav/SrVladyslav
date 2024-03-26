@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-mazurkevych/)
 
-I'm [Vlad](https://calendar.app.google/XwG6bWVp37iRzuL36). I started as a data scientist specialized in **NLP**, where I continue to train daily. But I also really like the world of startups, which is why I started several of them, one of which was accelerated by [Lanzadera accelerator](https://lanzadera.es/). As usually happens in these projects, you have to learn everything 🙆‍♂️, from how to manage and direct the team, plan marketing strategies, prospect and go out to sell to potential clients (dealing with multiple rejections along the way 😪), P&Ls, to being a Fullstack Dev learning new technologies on the fly. It's a very interesting experience 😍!
+I'm [Vlad](https://calendar.app.google/XwG6bWVp37iRzuL36). I started as a data scientist specialized in **NLP**, where I continue to train daily. But I also really like the world of startups, which is why I started several of them, one of which was accelerated by [Lanzadera accelerator](https://lanzadera.es/). As usually happens in these projects and what I love, is that you have to learn everything 🙆‍♂️, from how to manage and direct the team, plan marketing strategies, prospect and go out to sell to potential clients (dealing with multiple rejections along the way 😪), P&Ls, to being a Fullstack Dev learning new technologies on the fly. It's a very interesting experience 😍!
 
 I leave you a summary of each startup as well as the technologies that I had to learn in them below 🧐.
 
