@@ -1,4 +1,30 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+<div align="center">
+  
+### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-mazurkevych/)
+
+
+| Startup | Grifenix | Essenfy | Project 6 |
+| :---: | :---: | :---: | :---: |
+| Status |  |  |  |
+| Status |  |  |  |
+| Team | 3 | 3 | 1 |
+| Status | 🔴 Dead | 🟡 Paused | 🟢 MVP Iteration |
+
+---
+
+Open to new adventures: [Book a meeting](https://calendar.app.google/XwG6bWVp37iRzuL36)!
+
+</div>
+
+
+
+
+
+
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-mazurkevych/)
