@@ -12,7 +12,8 @@ I leave you a summary of each startup as well as the technologies I learned in t
 | :---: | :---: | :---: | :---: |
 | Tech stuff | Django REST, VueJS, Solidity, TailwindCSS, MongoDB, AWS (S3, EC2, RDS), Heroku, Ganache, Gunicorn, PM2, NGINX, Linux, Figma | Django REST, NextJS, TypeScript, PyTorch, Litestar, TailwindCSS, Postgres, AWS (S3, EC2, RDS), Gunicorn, PM2, NGINX, Linux, Figma | Django REST, NextJS, TypeScript, PyTorch, ScikitLearn, TailwindCSS, Postgres, AWS (S3, EC2, RDS), Gunicorn, PM2, NGINX, Linux, Figma |
 | Idea | "No-code smart contract builder platform" pivoted to "Blockchain based interlinked loyalty network platform" | "Platform to reduce food waste in medium-sized businesses, prioritizing the health of vulnerable people", betting on new forms of food delivery as well as store stock management | E-learning / Job search platform in the automotive sector |
-| Reason of death | - | - | Not today, too young yet 👶🏼! |
+| Reason of death | It stopped being profitable when many players appeared in the market with the same idea and the lack of innovation maneuver taking into account that everything was based on public Blockchains | The key innovations compared to the competition were not completely accepted or legal, so to continue with the same idea as the competition that is light years ahead, it was decided to stop the project. | Not today, too young yet 👶🏼! |
+| Links | Partially open [repo link](https://github.com/Grifenix-com), [Instagram](https://www.instagram.com/grifenix/) | Partially open [repo link](https://github.com/Essenfy), [Instagram](https://www.instagram.com/essenfy) | No public info available yet |
 | Role | CEO/CTO | CEO/CTO | Founder |
 | Team | 3 | 3 | 1 |
 | Status | 🔴 Dead | 🟡 Paused | 🟢 On MVP Iteration |
