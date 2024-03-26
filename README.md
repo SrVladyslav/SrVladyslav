@@ -10,11 +10,11 @@ I'm [Vlad](https://calendar.app.google/XwG6bWVp37iRzuL36). I started as a data s
 
 I leave you a summary of each startup as well as the technologies I learned in them below. 🧐.
 
-| Startup | Grifenix | Essenfy | Project 6 |
+| Startup | <div style="height:32px;"><img src="https://grifenix-com.github.io/G-Images/branding/logo_cube_blue.svg" alt="Logo" style="height:32px;"></div> Grifenix | <div style="height:32px;"><img src="https://essenfy.github.io/essenfy-lib/logos/svg/e_logo_green_s.svg" alt="Logo" style="height:32px;"></div>Essenfy | Project 6 |
 | :---: | :---: | :---: | :---: |
 | Tech stuff | Django REST, VueJS, Solidity, TailwindCSS, MongoDB, AWS (S3, EC2, RDS), Heroku, Ganache, Gunicorn, PM2, NGINX, Linux | Django REST, NextJS, PyTorch, Litestar, TailwindCSS, Postgres, AWS (S3, EC2, RDS), Gunicorn, PM2, NGINX, Linux | Django REST, NextJS, PyTorch, ScikitLearn, TailwindCSS, Postgres, AWS (S3, EC2, RDS), Gunicorn, PM2, NGINX, Linux |
 | Idea | "No-code smart contract builder platform" pivoted to "Blockchain based interlinked loyalty network platform" | "Platform to reduce food waste in medium-sized businesses, prioritizing the health of vulnerable people", betting on new forms of food delivery as well as store stock management | E-learning / Job search platform in the automotive sector |
-| Reason of death |  |  | Not today, too young yet 👶🏼! |
+| Reason of death | - | - | Not today, too young yet 👶🏼! |
 | Role | CEO/CTO | CEO/CTO | Founder |
 | Team | 3 | 3 | 1 |
 | Status | 🔴 Dead | 🟡 Paused | 🟢 On MVP Iteration |
