@@ -8,7 +8,7 @@ I'm [Vlad](https://calendar.app.google/XwG6bWVp37iRzuL36). I started as a data s
 
 I leave you a summary of each startup and what I learned from them below 🧐.
 
-| Startup | <div style="height:32px;"><img src="https://grifenix-com.github.io/G-Images/branding/logo_cube_blue.svg" alt="Logo" style="height:32px;"></div> Grifenix | <div style="height:32px;"><img src="https://essenfy.github.io/essenfy-lib/logos/svg/e_logo_green_s.svg" alt="Logo" style="height:32px;"></div>Essenfy | <div style="height:32px;"><img src="https://skillwi.vlamaz.com/branding/skillwi_logo_yellow.svg" alt="Logo" style="height:32px;"></div>Skillwi |
+| Startup | <div style="height:32px;"><img src="https://grifenix-com.github.io/G-Images/branding/logo_cube_blue.svg" alt="Logo" style="height:32px;"></div> Grifenix | <div style="height:32px;"><img src="https://essenfy.github.io/essenfy-lib/logos/svg/e_logo_green_s.svg" alt="Logo" style="height:32px;"></div>Essenfy | <div style="height:32px;"><img src="https://github.com/Skollrune/skollrune_brand_elements/blob/main/square_logos/skollrune_logo_rounded.png?raw=true" alt="Logo" style="height:32px;"></div>Skollrune |
 | :---: | :---: | :---: | :---: |
 | 💻 Tech stuff used | Django REST, VueJS, Solidity, TailwindCSS, MongoDB, AWS (S3, EC2, RDS), Heroku, Ganache, Gunicorn, PM2, NGINX, Linux, Figma | Django REST, NextJS, TypeScript, PyTorch, Litestar, TailwindCSS, Postgres, AWS (S3, EC2, RDS), Gunicorn, PM2, NGINX, Linux, Figma | Kafka, Django REST, NextJS, TypeScript, PyTorch, ScikitLearn, TailwindCSS, Postgres, AWS (S3, EC2, RDS), Gunicorn, PM2, NGINX, Linux, Figma |
 | 🎓 TOP 3 Lessons | Team management, blockchain & web development and B2B sales | B2B2C sales, Lean methodology and develop together with the client | Improving yet |
